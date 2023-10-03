@@ -16,7 +16,7 @@ import PrivetRoute from "./PrivetRoute";
             {
                 path:'/',
                 element:<Home></Home>,
-                loader:()=>fetch(`http://localhost:5000/course`)
+                loader:()=>fetch(`https://task-server-arifhasan1402-gmailcom.vercel.appcourse`)
             },
             {
               path:'/login',
@@ -29,7 +29,7 @@ import PrivetRoute from "./PrivetRoute";
             {
               path:'/details/:id',
               element:<PrivetRoute><Details></Details></PrivetRoute>,
-              loader:()=>fetch(`http://localhost:5000/course`)
+              loader:()=>fetch(`https://task-server-arifhasan1402-gmailcom.vercel.appcourse`)
             }
         ]
     }
