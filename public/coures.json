@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "name": "Course 1",
+        "category": "Programming",
+        "instructor": {
+            "name": "John Doe",
+            "photo": "",
+            "bio": "John Doe is an experienced programmin with a passion for teaching coding to beginners and advanced learners. He has been working in the tech industry for over 10 years and has expertise in several programming languages, including JavaScript, Python, and Java.",
+            "qualifications": [
+                "Bachelor of Computer Science",
+                "Certified Web Developer",
+                "Masters in Software Engineering"
+            ],
+            "contact": "john.doe@example.com"
+        },
+        "title": "Software engineer, developer, and programmer are certainly the most common ones. However, there are more exotic  out there, such as software artisan and even software gardener",
+        "rating": 4.5,
+        "review": "This course is fantastic! The content is well-structured, and the instructor explains complex concepts in a way that s easy to understand. I highly recommend it.",
+        "syllabus":"html, css,JavaScript,react"
+
+
+    },
+    {
+        "id": 2,
+        "name": "Course 2",
+        "category": "Programming",
+        "instructor": {
+            "name": "Sagoru Khan",
+            "photo": "",
+            "bio": "Sagour Khan is an experienced programmin with a passion for teaching coding to beginners and advanced learners. He has been working in the tech industry for over 10 years and has expertise in several programming languages, including JavaScript, Python, and Java.",
+            "qualifications": [
+                "Bachelor of Computer Science",
+                "Certified Web Developer",
+                "Masters in Software Engineering"
+            ],
+            "contact": "john.doe@example.com"
+        },
+        "title": "Software engineer, developer, and programmer are certainly the most common ones. However, there are more exotic  out there, such as software artisan and even software gardener",
+        "rating": 4.5,
+        "review": "This course is fantastic! The content is well-structured, and the instructor explains complex concepts in a way that s easy to understand. I highly recommend it.",
+        "syllabus":"html, css,JavaScript,react"
+
+
+    },
+    {
+        "id": 3,
+        "name": "Course 1",
+        "category": "Design",
+        "instructor": {
+            "name": "John Doe",
+            "photo": "",
+            "bio": "John Doe is an experienced programmin with a passion for teaching coding to beginners and advanced learners. He has been working in the tech industry for over 10 years and has expertise in several programming languages, including JavaScript, Python, and Java.",
+            "qualifications": [
+                "Bachelor of Computer Science",
+                "Certified Web Developer",
+                "Masters in Software Engineering"
+            ],
+            "contact": "john.doe@example.com"
+        },
+        "title": "Software engineer, developer, and programmer are certainly the most common ones. However, there are more exotic  out there, such as software artisan and even software gardener",
+        "rating": 4.5,
+        "review":  "This course is fantastic! The content is well-structured, and the instructor explains complex concepts in a way that s easy to understand. I highly recommend it.",
+        "syllabus":"html, css,boostarap,taillwind"
+
+
+    },
+    {
+        "id": 4,
+        "name": "Course 6",
+        "category": "Marn Stack Devloper",
+        "instructor": {
+            "name": "Arif Hasan",
+            "photo": "",
+            "bio": "John Doe is an experienced programmin with a passion for teaching coding to beginners and advanced learners. He has been working in the tech industry for over 10 years and has expertise in several programming languages, including JavaScript, Python, and Java.",
+            "qualifications": [
+                "Bachelor of Computer Science",
+                "Certified Web Developer",
+                "Masters in Software Engineering"
+            ],
+            "contact": "john.doe@example.com"
+        },
+        "title": "Software engineer, developer, and programmer are certainly the most common ones. However, there are more exotic  out there, such as software artisan and even software gardener",
+        "rating": 4.5,
+        "review":  "This course is fantastic! The content is well-structured, and the instructor explains complex concepts in a way that s easy to understand. I highly recommend it.",
+        "syllabus":"html, css,JavaScript,react,mongodb"
+
+
+    },
+    {
+        "id": 5,
+        "name": "Course 5",
+        "category": "Design",
+        "instructor": {
+            "name": "John Doe",
+            "photo": "",
+            "bio": "John Doe is an experienced programmin with a passion for teaching coding to beginners and advanced learners. He has been working in the tech industry for over 10 years and has expertise in several programming languages, including JavaScript, Python, and Java.",
+            "qualifications": [
+                "Bachelor of Computer Science",
+                "Certified Web Developer",
+                "Masters in Software Engineering"
+            ],
+            "contact": "john.doe@example.com"
+        },
+        "title": "Software engineer, developer, and programmer are certainly the most common ones. However, there are more exotic  out there, such as software artisan and even software gardener",
+        "rating": 4.5,
+        "review":  "This course is fantastic! The content is well-structured, and the instructor explains complex concepts in a way that s easy to understand. I highly recommend it.",
+        "syllabus":"html, css,boostarap,taillwind"
+
+
+    },
+    {
+        "id": 6,
+        "name": "Course 6",
+        "category": "Marn Stack Devloper",
+        "instructor": {
+            "name": "Abid Khan",
+            "photo": "",
+            "bio": "Abid Khan is an experienced programmin with a passion for teaching coding to beginners and advanced learners. He has been working in the tech industry for over 10 years and has expertise in several programming languages, including JavaScript, Python, and Java.",
+            "qualifications": [
+                "Bachelor of Computer Science",
+                "Certified Web Developer",
+                "Masters in Software Engineering"
+            ],
+            "contact": "john.doe@example.com"
+        },
+        "title": "Software engineer, developer, and programmer are certainly the most common ones. However, there are more exotic  out there, such as software artisan and even software gardener",
+        "rating": 4.5,
+        "review":  "This course is fantastic! The content is well-structured, and the instructor explains complex concepts in a way that s easy to understand. I highly recommend it.",
+        "syllabus":"html, css,JavaScript,react,mongodb"
+
+
+    },
+    {
+        "id": 7,
+        "name": "Course 7",
+        "category": "Full Stack Devoloper",
+        "instructor": {
+            "name": "Abid Khan",
+            "photo": "",
+            "bio": "Abid Khan is an experienced programmin with a passion for teaching coding to beginners and advanced learners. He has been working in the tech industry for over 10 years and has expertise in several programming languages, including JavaScript, Python, and Java.",
+            "qualifications": [
+                "Bachelor of Computer Science",
+                "Certified Web Developer",
+                "Masters in Software Engineering"
+            ],
+            "contact": "john.doe@example.com"
+        },
+        "title": "Software engineer, developer, and programmer are certainly the most common ones. However, there are more exotic  out there, such as software artisan and even software gardener",
+        "rating": 4.5,
+        "review": "This course is fantastic! The content is well-structured, and the instructor explains complex concepts in a way that s easy to understand. I highly recommend it.",
+        "syllabus":"html, css,JavaScript,react,mongodb,next js"
+
+    }
+]
